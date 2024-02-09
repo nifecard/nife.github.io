@@ -64285,7 +64285,7 @@ JR(a){return this.aPo(a)},
 aPo(a){var s=0,r=A.t(t.z),q,p=this
 var $async$JR=A.o(function(b,c){if(b===1)return A.p(c,r)
 while(true)switch(s){case 0:s=3
-return A.m(p.a.M7("register",a),$async$JR)
+return A.m(p.a.M7("customer",a),$async$JR)
 case 3:q=c
 s=1
 break
@@ -64974,7 +64974,7 @@ A.x3.prototype={
 O(){return new A.adD(new A.hV(),B.h)}}
 A.adD.prototype={
 E(a){var s=this,r=null,q=A.aY(s.a.c,r,r,r,r,r,r,r,r),p=A.e3(r,!1,r,r,r,r,r,r,r,r,B.a_7,r,r,r,new A.b0o(a),r,r,r,r,r,r,r),o=A.aW(5),n=t.p
-q=A.bej(A.b([A.cR(r,A.N(r,A.bq(A.ai("Submit",A.a8(B.j,r,15,B.x)),r,r,r),B.e,r,r,new A.az(B.l,r,r,o,r,r,r,B.t),r,r,r,B.XY,B.bZ,r,r,r),B.C,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.b0p(a),r,r,r,r,r,r,r,!1,B.a3)],n),r,!0,B.a_,r,1,r,0,!1,r,r,r,p,r,A.GY(),!0,r,r,r,r,r,q,r,r,r,1,r)
+q=A.bej(A.b([A.cR(r,A.N(r,A.bq(A.aY("Submit",r,r,r,r,A.a8(B.j,r,15,B.x),r,r,r),r,r,r),B.e,r,r,new A.az(B.l,r,r,o,r,r,r,B.t),r,r,r,B.XY,B.bZ,r,r,r),B.C,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.b0p(a),r,r,r,r,r,r,r,!1,B.a3)],n),r,!0,B.a_,r,1,r,0,!1,r,r,r,p,r,A.GY(),!0,r,r,r,r,r,q,r,r,r,1,r)
 p=s.a
 return A.cR(r,A.bg0(q,r,A.h_(A.bu(A.b([new A.a1I(p.e,new A.aqJ(new A.b0q(),new A.b0B(),new A.b0E(),new A.b0F(),new A.b0G(),new A.b0H(),new A.b0I(),new A.b0J(),new A.b0K(),new A.b0r(),new A.b0s(s),new A.b0t(),new A.b0u(s),new A.b0v(),new A.b0w(),new A.b0x(),new A.b0y()),new A.aAQ("Your text here...",p.f,!0),new A.aB8(new A.b0z(),new A.b0A(),B.II,B.IH),new A.aG7(1000),A.b([new A.a7Z(A.b(["test1","test2","test3"],t.s),new A.b0C())],t.lM),r)],n),B.i,B.aL,B.m,r,B.z),r,r,r,B.X),r),B.C,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.b0D(),r,r,r,r,r,r,r,!1,B.a3)}}
 A.b0D.prototype={
